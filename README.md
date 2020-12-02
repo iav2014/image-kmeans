@@ -20,6 +20,11 @@ you can change centroids number and test with your images
 example of random pixels:
 `python centroides.py`
 
+see:
+https://es.wikipedia.org/wiki/K-medias
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+https://www.unioviedo.es/compnum/laboratorios_py/kmeans/kmeans.html
+
 Nacho Ariza, Dec 2020
 MIT License
 
